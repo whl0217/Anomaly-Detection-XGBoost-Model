@@ -13,7 +13,7 @@
 
 ### Source code
 
-* See [Image Classifier](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/IC22004_Predicting%20Removed%20Loan.ipynb)
+* See [XGBoost Model](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/IC22004_Predicting%20Removed%20Loan.ipynb)
 
 ## Authors
 
