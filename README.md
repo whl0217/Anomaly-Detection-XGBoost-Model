@@ -1,5 +1,5 @@
 # UMD Info Challenge 2022
-### UMD Info Challenge (formerly known as UMD DATA CHALLENGE) is a week-long event that gathers teams of students from across multiple academic institutions to work with partnering organizations to address real-world problems, provide valuable team-building experience, and network with industry professionals.
+UMD Info Challenge (formerly known as UMD DATA CHALLENGE) is a week-long event that gathers teams of students from across multiple academic institutions to work with partnering organizations to address real-world problems, provide valuable team-building experience, and network with industry professionals.
 
 ## Problem Statement: Paycheck Protection Program Loan Fraud Prediction
 
