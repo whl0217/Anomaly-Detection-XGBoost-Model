@@ -1,11 +1,25 @@
-# UMD_Info_Challenge_2022_Team 4
-<br>
-UMD Info Challenge (formerly known as UMD DATA CHALLENGE) is a week-long event that gathers teams of students from across multiple academic institutions to work with partnering organizations to address real-world problems, provide valuable team-building experience, and network with industry professionals.
-<br>
-<br>
-For more information, please see below for details.<br>
-<b>Project abstract</b>: IC22004_Predicting Removed Loan - Abstract <br>
-<b>Project slides</b>: IC22004_Predicting Removed Loan - PPT <br>
-<b>Source code</b>: IC22004_Predicting Removed Loan 
+# UMD Info Challenge 2022
+### UMD Info Challenge (formerly known as UMD DATA CHALLENGE) is a week-long event that gathers teams of students from across multiple academic institutions to work with partnering organizations to address real-world problems, provide valuable team-building experience, and network with industry professionals.
 
-![Image text](https://github.com/lch99310/UMD_Info_Challenge_2022/blob/main/pic/60D580CD-8D74-42C1-BDC1-960E0B20C406.JPG)
+## Problem Statement: Paycheck Protection Program Loan Fraud Prediction
+
+* See [Abstract](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/IC22004_Predicting%20Removed%20Loan%20-%20Abstract.pdf)
+
+## Getting Started
+
+### Presentation
+
+* See [Slides](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/ProblemStatement_PPP.pdf)
+
+### Source code
+
+* See [Image Classifier](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/IC22004_Predicting%20Removed%20Loan.ipynb)
+
+## Authors
+
+* Wang-Han Li <br>
+wang-han.li@marylandsmith.umd.edu
+ 
+* Chung-Hao Lee <br>
+
+* Chia-Lin Tsai<br>
