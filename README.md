@@ -7,7 +7,7 @@
  4. Presentation
 
 ## Introduction
-![This is an image](https://ischool.umd.edu/wp-content/uploads/Info-Challenge-Logo-lg_white-1-300x300.png)
+![This is an image](https://ischool.umd.edu/wp-content/uploads/Info-Challenge-Logo-lg_white-1-300x300.png)<br>
 UMD Info Challenge (formerly known as UMD Data Challenge) is a week-long event that gathers teams of students from across multiple academic institutions to work with partnering organizations to address real-world problems, provide valuable team-building experience, and network with industry professionals.
 
 ## Problem Statement
@@ -22,6 +22,6 @@ EDA + Data Pre-Processing + Modeling
 * See [Slides](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/ProblemStatement_PPP.pdf)
 
 ### Authors
-* Wang-Han Li whl0217@umd.edu<br>
+* Wang-Han Li, whl0217@umd.edu<br>
 * Chung-Hao Lee <br>
 * Chia-Lin Tsai<br>
