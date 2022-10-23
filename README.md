@@ -14,7 +14,7 @@ UMD Info Challenge (formerly known as UMD Data Challenge) is a week-long event t
 Paycheck Protection Program Fraudulent Applicaitons Prediction
 * See [Abstract](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/IC22004_Predicting%20Removed%20Loan%20-%20Abstract.pdf)
 
-## Data Rrocessing and Modeling
+## Data Processing and Modeling
 EDA + Data Pre-Processing + Modeling
 * See [XGBoost Model](https://github.com/whl0217/UMD_Info_Challenge_2022/blob/main/IC22004_Predicting%20Removed%20Loan.ipynb)
 
