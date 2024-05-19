@@ -8,6 +8,7 @@
 
 ## Dataset
 The dataset is sourced from the official SBA website which can be accessed using the following URL:
+<br>
 https://data.sba.gov/dataset/ppp-foia/resource/aab8e9f9-36d1-42e1-b3ba-e59c79f1d7f0?inner_span=True
 
 ## Problem Statement
@@ -29,7 +30,7 @@ To further our insights, we employed various visualization techniques, such as l
 
 ### Fraud Detection Techniques
 
-We applied the supervised machine-learning algorithm, XGBoost Model, to find out characteristics of the most anomalous loans, which could be signs of PPP loan fraud.
+We applied the machine-learning algorithm, XGBoost Model, to find out characteristics of the most anomalous loans, which could be signs of PPP loan fraud.
 
 In the cases above, we recognize top five most important variables are amount, borrower's latitude and longtitude, and lender's latitude and longtitude.
 
