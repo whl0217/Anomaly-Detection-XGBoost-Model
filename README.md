@@ -7,8 +7,8 @@
  * Presentation
 
 ## Dataset
- The dataset is sourced from the official SBA website which can be accessed using the following URL:
- ![alt text](https://data.sba.gov/dataset/ppp-foia/resource/aab8e9f9-36d1-42e1-b3ba-e59c79f1d7f0?inner_span=True)
+The dataset is sourced from the official SBA website which can be accessed using the following URL:
+https://data.sba.gov/dataset/ppp-foia/resource/aab8e9f9-36d1-42e1-b3ba-e59c79f1d7f0?inner_span=True
 
 ## Problem Statement
 ![alt text](https://gray-wafb-prod.cdn.arcpublishing.com/resizer/ELLb-0F79fu-eD2nA4_46JmkiJs=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/YT67CCYJY5FDNJDURKRAGZYETY.jpg)
