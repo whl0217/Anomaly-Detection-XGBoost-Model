@@ -32,7 +32,7 @@ To further our insights, we employed various visualization techniques, such as l
 
 We applied the machine-learning algorithm, XGBoost Model, to find out characteristics of the most anomalous loans, which could be signs of PPP loan fraud.
 
-In the cases above, we recognize top five most important variables are amount, borrower's latitude and longtitude, and lender's latitude and longtitude.
+In the cases above, we identify most important variables are loan amount, demographics of borrowers, and lender's zip code.
 
 Finally, we also conducted exploratory studies on the resulting fraud-identified data to find additional patterns, connections, and trends.
 
